@@ -1,9 +1,11 @@
 import json
 import random
+import csv
 
 with open("preguntas.json") as f:
     preguntas = json.load(f)
 
+usuario = input("Ingresa el usuario: ")
 nivel = 1
 acumulado = 0
 
@@ -18,7 +20,7 @@ while nivel < 6:
     print(f"Por {datos_nivel['premio']} puntos, de la categoría {pregunta_aleatoria['categoria']}, la pregunta es:")
     print(pregunta_aleatoria['pregunta'])
 
-    # aordenar aleatoriamente las respuestas
+    # Ordenar aleatoriamente las respuestas
     lista_respuestas = [pregunta_aleatoria['respuesta'], pregunta_aleatoria['incorrecta1'], pregunta_aleatoria['incorrecta2'], pregunta_aleatoria['incorrecta3']]
     random.shuffle(lista_respuestas)
 
@@ -28,8 +30,7 @@ while nivel < 6:
     print(f"3. {lista_respuestas[2]}")
     print(f"4. {lista_respuestas[3]}")
 
-    print("Ingrese el número correspondiente a su respuesta:")
-    respuesta = int(input().strip())
+    respuesta = int(input("Ingrese el número correspondiente a su respuesta: ").strip())
 
     # Respuesta correcta
     if lista_respuestas[respuesta-1] == pregunta_aleatoria['respuesta']:
@@ -51,3 +52,7 @@ while nivel < 6:
             break
 
     nivel += 1
+
+with open('registros.csv', 'a') as registros:
+    writer = csv.writer(registros)
+    writer.writerow([usuario, acumulado])
