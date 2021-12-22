@@ -1,0 +1,255 @@
+[{
+    "nivel": 1,
+    "premio":100,
+    "preguntas": [
+        {
+            "id":"n11",
+            "categoria": "Ciencias",
+            "pregunta": "¿Qué fuerza nos mantiene sujetos a la tierra?",
+            "respuesta":"La fuerza de gravedad",
+            "incorrecta1": "La fuerza centripeta",
+            "incorrecta2": "La fuerza de Aquiles",
+            "incorrecta3": "La fuerza centrifuga"
+        },
+        {
+            "id": "n12",
+            "categoria":"Politica",
+            "pregunta": "Presidente actual de Colombia",
+            "respuesta": "Ivan Duque",
+            "incorrecta1":"Alvaro Uribe",
+            "incorrecta2":"Juan Manuel Santos",
+            "incorrecta3":"Pastrana"
+        },
+        {
+            "id":"n13",
+            "categoria": "Geografia",
+            "pregunta": "Capital de Antioquia",
+            "respuesta":"Medellin",
+            "incorrecta1": "Bogota",
+            "incorrecta2":"Sabaneta",
+            "incorrecta3":"Guatape"
+        },
+        {
+            "id":"n14",
+            "categoria": "Arte",
+            "pregunta": "Que resulta de mezclar rojo con amarillo",
+            "respuesta": "Naranja",
+            "incorrecta1": "Azul claro",
+            "incorrecta2": "Cafe",
+            "incorrecta3":"Blanco"
+        },
+        {
+            "id":"n15",
+            "categoria": "Literatura",
+            "pregunta":"Cuando se quiere describir un sustativo, se usa un...",
+            "respuesta":"adjetivo",
+            "incorrecta1":"advebio",
+            "incorrecta2":"cumplido",
+            "incorrecta3":"pronombre"
+        }
+    ]
+},
+{
+    "nivel": 2,
+    "premio":1000,
+    "preguntas": [
+        {
+            "id":"n21",
+            "categoria": "Ciencias",
+            "pregunta": "¿Que fuerza opone resistencia al movimiento",
+            "respuesta":"La fuerza de la friccion",
+            "incorrecta1": "La fuerza de arrastre",
+            "incorrecta2": "La estatica",
+            "incorrecta3": "La fuerza del amor"
+        },
+        {
+            "id": "n22",
+            "categoria":"Politica",
+            "pregunta": "Presidente actual de Estados Unidos",
+            "respuesta": "Joe Biden",
+            "incorrecta1":"Donald Trump",
+            "incorrecta2":"Joe Jonas",
+            "incorrecta3":"Osama Bin"
+        },
+        {
+            "id":"n23",
+            "categoria": "Geografia",
+            "pregunta": "Capital de Uruguay",
+            "respuesta":"Montevideo",
+            "incorrecta1": "Bogota",
+            "incorrecta2":"Ciudad de Mexico",
+            "incorrecta3":"La asuncion"
+        },
+        {
+            "id":"n24",
+            "categoria": "Arte",
+            "pregunta": "Que artista pinto la Monalisa",
+            "respuesta": "Leonardo da Vinci",
+            "incorrecta1": "Federico Lorca",
+            "incorrecta2": "Leonard Cohem",
+            "incorrecta3":"Diego Rivera"
+        },
+        {
+            "id":"n25",
+            "categoria": "Literatura",
+            "pregunta":"Escritor de Cien años de soledad",
+            "respuesta":"Gabriel Garcia Marquez",
+            "incorrecta1":"Rafael Pombo",
+            "incorrecta2":"Ernesto Sabato",
+            "incorrecta3":"Franciso Maturana"
+        }
+    ]
+},
+{
+    "nivel": 3,
+    "premio":10000,
+    "preguntas": [
+        {
+            "id":"n31",
+            "categoria": "Ciencias",
+            "pregunta": "Cuales son los movientos de la tierra?",
+            "respuesta":"Rotacional y traslacional",
+            "incorrecta1": "De norte y de sur",
+            "incorrecta2": "Ecuatorial y meridional",
+            "incorrecta3": "Gravitatorial y flotacional"
+        },
+        {
+            "id": "n32",
+            "categoria":"Politica",
+            "pregunta": "Bajo que tratado finalizo la segunda guerra mundial",
+            "respuesta": "Tratdo de Paris",
+            "incorrecta1":"Acuerdo de Versalles",
+            "incorrecta2":"Tratato de Cracovia",
+            "incorrecta3":"Unificacion Franco-alemana"
+        },
+        {
+            "id":"n33",
+            "categoria": "Geografia",
+            "pregunta": "Machu Picchu fue una zona poblada por comunidades...",
+            "respuesta":"Incas",
+            "incorrecta1": "Aztecas",
+            "incorrecta2":"Emberas",
+            "incorrecta3":"Quimbayas"
+        },
+        {
+            "id":"n34",
+            "categoria": "Arte",
+            "pregunta": "Instrumento que NO es de viento",
+            "respuesta": "Violonchelo",
+            "incorrecta1": "Fagot",
+            "incorrecta2": "Fiscorno",
+            "incorrecta3":"Oboe"
+        },
+        {
+            "id":"n35",
+            "categoria": "Literatura",
+            "pregunta":"El genero mediante el cual el autor transmite sus sentimientos es...",
+            "respuesta":"Genero lirico",
+            "incorrecta1":"Genero dramatico",
+            "incorrecta2":"Genero sentimental",
+            "incorrecta3":"Genero narrativo"
+        }
+    ]
+},
+{
+    "nivel": 4,
+    "premio":100000,
+    "preguntas": [
+        {
+            "id":"n41",
+            "categoria": "Ciencias",
+            "pregunta": "Formas de transferencia de calor",
+            "respuesta":"Conduccion, conveccion,radiacion",
+            "incorrecta1": "Conveccion, radiacion, mediacion",
+            "incorrecta2": "Radiacion, mediacion, conduccion",
+            "incorrecta3": "Conveccion, mediacion, conduccion"
+        },
+        {
+            "id": "n42",
+            "categoria":"Politica",
+            "pregunta": "Caciller actual de Alemania",
+            "respuesta": "Olaf Scholz",
+            "incorrecta1":"Armin Laschet",
+            "incorrecta2":"Angela Schmidt",
+            "incorrecta3":"Olaf Laschet"
+        },
+        {
+            "id":"n43",
+            "categoria": "Geografia",
+            "pregunta": "La laguna de Tota se ubica en ...",
+            "respuesta":"Boyaca",
+            "incorrecta1": "Antioquia",
+            "incorrecta2":"Cundinamarca",
+            "incorrecta3":"Santander"
+        },
+        {
+            "id":"n44",
+            "categoria": "Arte",
+            "pregunta": "El principal exponente de la secesion vienesa fue...",
+            "respuesta": "Gustav Klimt",
+            "incorrecta1": "Pablo Picasso",
+            "incorrecta2": "Van Gogh",
+            "incorrecta3":"Diego Rivera"
+        },
+        {
+            "id":"n45",
+            "categoria": "Literatura",
+            "pregunta":"Hermann Hesse gano el nobel de literatura en 1946 con la obra...",
+            "respuesta":"El lobo estepario",
+            "incorrecta1":"Siddhartha",
+            "incorrecta2":"El coronel no tiene quien le escriba",
+            "incorrecta3":"Demian"
+        }
+    ]
+},
+{
+  "nivel": 5,
+  "premio":1000000,
+  "preguntas": [
+      {
+          "id":"n51",
+          "categoria": "Ciencias",
+          "pregunta": "Cuando eres incapaz de reconocer entre el verde y el rojo, se dice que tienes...",
+          "respuesta":"Daltonismo",
+          "incorrecta1": "Sindrome de Parkinton",
+          "incorrecta2": "Sindrome de Sjogren",
+          "incorrecta3": "Autismo"
+      },
+      {
+          "id": "n42",
+          "categoria":"Politica",
+          "pregunta": "Cuando se dio por finalizada la guerra de los mil dias?",
+          "respuesta": "21 de Noviembre de 1902",
+          "incorrecta1":"1 de enero de 1902",
+          "incorrecta2":"3 de Junio de 1907",
+          "incorrecta3":"21 de Noviembre de 1907"
+      },
+      {
+          "id":"n53",
+          "categoria": "Geografia",
+          "pregunta": "La region de Indochina queda situada...",
+          "respuesta":"Al este de India y sur de China",
+          "incorrecta1": "Al este de China y sur de India",
+          "incorrecta2": "Al este de Vietnam y sur de Laos",
+          "incorrecta3": "Al este de India y sur de Birmania"
+      },
+      {
+          "id":"n54",
+          "categoria": "Arte",
+          "pregunta": "Debora Arango desarrollo su obra dentro del movimiento",
+          "respuesta": "expresionista",
+          "incorrecta1": "cubista",
+          "incorrecta2": "surrealista",
+          "incorrecta3":"dadaista"
+      },
+      {
+          "id":"n55",
+          "categoria": "Literatura",
+          "pregunta":"Gonzalo Arango es considerado el padre del movimiento literario llamado:",
+          "respuesta":"nadaismo",
+          "incorrecta1":"dadaismo",
+          "incorrecta2":"realismo",
+          "incorrecta3":"realismo magico"
+      }
+  ]
+}]
