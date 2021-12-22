@@ -35,16 +35,16 @@ while nivel < 6:
     # Respuesta correcta
     if lista_respuestas[respuesta-1] == pregunta_aleatoria['respuesta']:
         acumulado += datos_nivel['premio']
-        print(f"¡Felicitaciones, la respuesta fue correcta, tu premio es {datos_nivel['premio']}, y tu acumulado actual es {acumulado} puntos!\n")
+        print(f"¡Felicitaciones {usuario}, la respuesta fue correcta, tu premio es {datos_nivel['premio']}, y tu acumulado actual es {acumulado} puntos!\n")
 
     # Respuesta incorrecta
     else:
-        print("Perdiste, no te llevas nada esta vez :(")
+        print(f"Perdiste {usuario}, no te llevas nada esta vez :(")
         break
 
     # Desea continuar
     if nivel < 5:
-        print("¿desea continuar? Y/N")
+        print("¿desea continuar? Y/n")
         respuesta = input().strip().upper()
 
         if respuesta == "N":
